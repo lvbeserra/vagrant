@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/sync":{"create":true,"guestpath":"/home/vagrant/sync","hostpath":"/home/beserralu/lbeserra/almalinux_files","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/beserralu/lbeserra","disabled":false,"__vagrantfile":true}}}
